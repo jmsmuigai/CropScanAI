@@ -1,0 +1,11 @@
+
+# secrets & office lock files
+*.docx~
+~$*
+token*
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+serviceAccount*.json
